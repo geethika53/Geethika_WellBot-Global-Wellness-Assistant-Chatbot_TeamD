@@ -135,8 +135,8 @@ wellbot/
 
 ---
 
-Team-D WellBot AI Assistance 
-Rashi Rathore
-M.Geethika
-R.Jansi Raju
-Shaik.Sana Afrin
+Team-D WellBot AI Assistance -
+Rashi Rathore, 
+M.Geethika, 
+R.Jansi Raju, 
+Shaik.Sana Afrin.
